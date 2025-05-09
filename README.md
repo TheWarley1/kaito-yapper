@@ -80,6 +80,8 @@ Already posted tweets are tracked in posted_tweets.json to avoid duplicates.
 
 -If no .txt files are found, the script will exit.
 
+-You're limited to 17 tweets within 24 hours.
+
 -Tweets longer than 280 characters are skipped.
 
 -Rate limits are respected, and retries are attempted on failure.
